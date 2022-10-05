@@ -6,6 +6,9 @@ using UnityEngine.SceneManagement;
 public class mOVIMIENTO : MonoBehaviour
 {
 
+   public float salto;
+   public float arrastrar;
+
 Animator anim;
 
     // Start is called before the first frame update
