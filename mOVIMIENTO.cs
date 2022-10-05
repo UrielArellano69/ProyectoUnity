@@ -7,7 +7,7 @@ public class mOVIMIENTO : MonoBehaviour
 {
 
    public float salto;
-   public float arrastrar;
+   public float correr;
 
 Animator anim;
 
